@@ -1,7 +1,10 @@
 # Nike-Predictive-Analytics-Machine-Learning
 NIKE: Predictive Analytics and Pattern Recognition
 
-Nike Unisex Footwear Trends: Machine Learning Analysis
+Performed data wrangling and feature engineering on web scraped product data using Selenium
+
+Utilized advanced statistical modeling techniques to train and deploy insightful topic modeling, clustering and text classification models, to understand product descriptions and categorizations
+
  
 Executive Summary
 In the face of intense competition within the athletic footwear industry, our project embarks on a groundbreaking journey to harness the power of advanced data analytics. This initiative is propelled by the necessity to transcend traditional market research and brand positioning strategies, which have been the cornerstone of Nike's approach to understanding and engaging its diverse consumer base. Business Questions:
