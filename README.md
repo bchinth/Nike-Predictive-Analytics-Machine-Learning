@@ -1,4 +1,6 @@
 # Nike-Predictive-Analytics-Machine-Learning
+Used LDA and LSTM network for classifying texts, marking a shift towards leveraging data insights
+
 NIKE: Predictive Analytics and Pattern Recognition
 
 Performed data wrangling and feature engineering on web scraped product data using Selenium
@@ -15,6 +17,7 @@ Our analysis is structured around critical business questions aimed at deepening
 Data Source:
 The backbone of our analysis is a comprehensive dataset meticulously compiled through web scraping techniques from Nike’s official website in our DDR Project.
 Solution:
+
 Our project employs Latent Dirichlet Allocation (LDA) for discovering themes in product descriptions and Long Short-Term Memory (LSTM) networks for classifying texts, marking a shift towards leveraging data insights. The LDA model reveals key marketing language and features in Nike's products, while the LSTM network efficiently categorizes products based on this textual information. This combination of machine learning techniques provides fresh perspectives on Nike’s product strategy and customer engagement.
 
 By integrating these findings into Nike's strategy, we aim to improve product development, refine marketing messages, and increase consumer satisfaction.
